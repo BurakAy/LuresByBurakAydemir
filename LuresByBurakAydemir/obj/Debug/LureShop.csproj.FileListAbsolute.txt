@@ -1,0 +1,22 @@
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe.config
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\burakAydemirFinalProject.frmLurePhoto.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\burakAydemirFinalProject.frmLureShop.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.Properties.Resources.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\LureShop.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.pdb
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.pdb
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe.config
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.pdb
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.pdb
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LureShop.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\burakAydemirFinalProject.frmLurePhoto.resources
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\burakAydemirFinalProject.frmLureShop.resources
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.Properties.Resources.resources
+C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LureShop.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe.config
+C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.pdb

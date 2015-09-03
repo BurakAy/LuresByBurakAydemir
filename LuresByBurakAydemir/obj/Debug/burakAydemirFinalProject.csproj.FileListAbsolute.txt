@@ -1,0 +1,20 @@
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.exe.config
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.exe
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.pdb
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.frmLureShop.resources
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.Properties.Resources.resources
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.exe
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.pdb
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.frmLurePhoto.resources
+C:\Users\Burak\Desktop\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.exe.config
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.exe
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.pdb
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.exe
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\bin\Debug\burakAydemirFinalProject.pdb
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.frmLurePhoto.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.frmLureShop.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.Properties.Resources.resources
+C:\Users\Burak\Desktop\C# 2\burakAydemirFinalProject\burakAydemirFinalProject\obj\Debug\burakAydemirFinalProject.csproj.GenerateResource.Cache
