@@ -20,3 +20,6 @@ C:\Users\Burak\Desktop\C# 2\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\Lu
 C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe.config
 C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.exe
 C:\Users\Burak\Desktop\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.pdb
+C:\Users\Burak\Desktop\Projects\LuresByBurakAydemir\LuresByBurakAydemir\bin\Debug\LuresByBurakAydemir.exe.config
+C:\Users\Burak\Desktop\Projects\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.exe
+C:\Users\Burak\Desktop\Projects\LuresByBurakAydemir\LuresByBurakAydemir\obj\Debug\LuresByBurakAydemir.pdb
